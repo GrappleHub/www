@@ -1,11 +1,10 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
   title: 'GrappleHub - Wrestling Tournament Tracking App',
   description: 'Track wrestling tournaments, matches, and athlete performance with GrappleHub. Record results, upload videos, and manage wrestler profiles.',
   keywords: 'wrestling, tournaments, app, tracking, sports, athlete management',
-  viewport: 'width=device-width, initial-scale=1',
   openGraph: {
     title: 'GrappleHub - Wrestling Tournament Tracking App',
     description: 'Track wrestling tournaments, matches, and athlete performance',
@@ -26,6 +25,11 @@ export const metadata: Metadata = {
     title: 'GrappleHub - Wrestling Tournament Tracking App',
     description: 'Track wrestling tournaments, matches, and athlete performance',
   },
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
 }
 
 export default function RootLayout({
