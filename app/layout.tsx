@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'GrappleHub - Wrestling Tournament Tracking App',
-  description: 'Track wrestling tournaments, matches, and athlete performance with GrappleHub. Record results, upload videos, and manage wrestler profiles.',
+  description: 'Track wrestling tournaments, matches, and athlete performance with GrappleHub. Record results and manage wrestler profiles.',
   keywords: 'wrestling, tournaments, app, tracking, sports, athlete management',
   openGraph: {
     title: 'GrappleHub - Wrestling Tournament Tracking App',
@@ -12,9 +12,9 @@ export const metadata: Metadata = {
     siteName: 'GrappleHub',
     images: [
       {
-        url: 'https://grapplehub.app/og-image.png',
-        width: 1200,
-        height: 630,
+        url: 'https://grapplehub.app/logo.png',
+        width: 1024,
+        height: 1024,
         alt: 'GrappleHub App',
       },
     ],
@@ -41,7 +41,10 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
-        <meta name="theme-color" content="#3b82f6" />
+        <meta name="theme-color" content="#000000" />
+        <link rel="icon" href="/favicon.ico" sizes="32x32" />
+        <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
       </head>
       <body>
         {children}
