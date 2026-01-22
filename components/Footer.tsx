@@ -1,5 +1,7 @@
 'use client'
 
+import Link from 'next/link'
+
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
@@ -18,19 +20,19 @@ export default function Footer() {
             <h3 className="text-lg font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2 text-gray-300">
               <li>
-                <a href="/" className="hover:text-secondary transition">
+                <Link href="/" className="hover:text-secondary transition">
                   Home
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/terms" className="hover:text-secondary transition">
+                <Link href="/terms" className="hover:text-secondary transition">
                   Terms of Service
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/privacy" className="hover:text-secondary transition">
+                <Link href="/privacy" className="hover:text-secondary transition">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
