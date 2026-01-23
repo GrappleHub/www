@@ -239,7 +239,7 @@ export default function Terms() {
 
           <h2 className="text-2xl font-bold mt-12 mb-4">21. Contact Information</h2>
           <p>If you have any questions about these Terms, please contact us at:</p>
-          <p><strong>Email:</strong> <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a></p>
           <p><strong>App:</strong> GrappleHub</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">22. App-Specific Terms</h2>

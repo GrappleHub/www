@@ -41,10 +41,10 @@ export default function Footer() {
             <h3 className="text-lg font-bold mb-4">Contact</h3>
             <p className="text-gray-300">
               <a 
-                href="mailto:elarssen91@gmail.com"
+                href="mailto:grapplehubapp@gmail.com"
                 className="hover:text-secondary transition"
               >
-                elarssen91@gmail.com
+                grapplehubapp@gmail.com
               </a>
             </p>
           </div>
