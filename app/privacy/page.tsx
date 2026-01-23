@@ -124,7 +124,7 @@ export default function Privacy() {
             <li><strong>Deleted Accounts:</strong> Data is deleted within 30 days of account deletion (unless required by law)</li>
             <li><strong>Backups:</strong> Some data may persist in backup systems for up to 90 days</li>
           </ul>
-          <p>You can request deletion of your account and data at any time by contacting us at <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a>.</p>
+          <p>You can request deletion of your account and data at any time by contacting us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Your Privacy Rights</h2>
           <p>Depending on your location, you may have the following rights:</p>
@@ -156,12 +156,12 @@ export default function Privacy() {
             <li>Object to certain processing of your personal information</li>
           </ul>
 
-          <p>To exercise these rights, contact us at <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a>.</p>
+          <p>To exercise these rights, contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Children's Privacy</h2>
           <p>GrappleHub is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
           <p><strong>If you are under 13:</strong> Do not use this app or provide any information.</p>
-          <p><strong>If you are a parent or guardian:</strong> If you believe your child under 13 has provided us with personal information, please contact us immediately at <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a>, and we will delete such information.</p>
+          <p><strong>If you are a parent or guardian:</strong> If you believe your child under 13 has provided us with personal information, please contact us immediately at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>, and we will delete such information.</p>
           <p><strong>Users aged 13-17:</strong> We recommend obtaining parental consent before using the app, especially when uploading videos containing minors.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Third-Party Services</h2>
@@ -191,7 +191,7 @@ export default function Privacy() {
             <li><strong>Right to Opt-Out:</strong> We do not sell personal information</li>
             <li><strong>Right to Non-Discrimination:</strong> We will not discriminate against you for exercising your rights</li>
           </ul>
-          <p>To exercise these rights, contact us at <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a>.</p>
+          <p>To exercise these rights, contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">European Privacy Rights (GDPR)</h2>
           <p>If you are located in the European Economic Area (EEA), you have rights under the General Data Protection Regulation (GDPR):</p>
@@ -213,7 +213,7 @@ export default function Privacy() {
             <li>Right to withdraw consent</li>
             <li>Right to lodge a complaint with a supervisory authority</li>
           </ul>
-          <p>Contact us at <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a> to exercise your rights.</p>
+          <p>Contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a> to exercise your rights.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Cookies and Tracking Technologies</h2>
           <p>GrappleHub does not currently use cookies. If we implement cookies or similar tracking technologies in the future, we will update this policy and notify you.</p>
@@ -233,7 +233,7 @@ export default function Privacy() {
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Contact Us</h2>
           <p>If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:</p>
-          <p><strong>Email:</strong> <a href="mailto:elarssen91@gmail.com" className="text-secondary hover:underline">elarssen91@gmail.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a></p>
           <p><strong>App:</strong> GrappleHub</p>
           <p>We will respond to your inquiry within 30 days.</p>
 

@@ -103,7 +103,7 @@ Replace `https://apps.apple.com/us/app/grapplehub` with your actual App Store UR
 
 ### Update Contact Email
 
-Replace `elarssen91@gmail.com` with your contact email in:
+Replace `grapplehubapp@gmail.com` with your contact email in:
 - `components/Footer.tsx`
 - `app/terms/page.tsx`
 - `app/privacy/page.tsx`
@@ -126,4 +126,4 @@ All rights reserved © GrappleHub 2026
 
 ## Support
 
-For questions or support, contact: elarssen91@gmail.com
+For questions or support, contact: grapplehubapp@gmail.com
