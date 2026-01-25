@@ -15,7 +15,7 @@ export default function Terms() {
         <article className="prose prose-lg max-w-none">
           <h1 className="text-4xl font-bold mb-4">Terms of Service</h1>
           
-          <p className="text-gray-600 mb-8"><strong>Last Updated: January 21, 2026</strong></p>
+          <p className="text-gray-600 mb-8"><strong>Last Updated: January 25, 2026</strong></p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">1. Agreement to Terms</h2>
           <p>By accessing or using GrappleHub ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
@@ -186,7 +186,7 @@ export default function Terms() {
 
           <h2 className="text-2xl font-bold mt-12 mb-4">14. Termination</h2>
           <h3 className="text-xl font-semibold mt-6 mb-3">14.1 By You</h3>
-          <p>You may stop using the App at any time and request deletion of your account by contacting us.</p>
+          <p>You may stop using the App at any time. You can delete your account and all associated data directly within the app by going to Profile &gt; Delete Account, or by contacting us.</p>
 
           <h3 className="text-xl font-semibold mt-6 mb-3">14.2 By Us</h3>
           <p>We may suspend or terminate your access to the App at any time, with or without notice, for:</p>

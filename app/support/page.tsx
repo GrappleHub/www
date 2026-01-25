@@ -68,11 +68,11 @@ export default function Support() {
             <div>
               <h3 className="text-xl font-semibold mb-2">How do I delete my account?</h3>
               <p className="text-gray-700">
-                To delete your account and all associated data, please email us at{' '}
+                You can delete your account directly in the app: go to <strong>Profile</strong> tab, scroll to the bottom, and tap <strong>Delete Account</strong>. This will permanently delete your account and all associated data (wrestlers, tournaments, and matches). Alternatively, you can email us at{' '}
                 <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">
                   grapplehubapp@gmail.com
                 </a>{' '}
-                with the subject "Account Deletion Request". We will process your request within 30 days.
+                with the subject "Account Deletion Request".
               </p>
             </div>
 
