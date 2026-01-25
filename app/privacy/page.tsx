@@ -15,7 +15,7 @@ export default function Privacy() {
         <article className="prose prose-lg max-w-none">
           <h1 className="text-4xl font-bold mb-4">Privacy Policy</h1>
           
-          <p className="text-gray-600 mb-8"><strong>Last Updated: January 21, 2026</strong></p>
+          <p className="text-gray-600 mb-8"><strong>Last Updated: January 25, 2026</strong></p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Introduction</h2>
           <p>Welcome to GrappleHub. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.</p>
@@ -124,7 +124,7 @@ export default function Privacy() {
             <li><strong>Deleted Accounts:</strong> Data is deleted within 30 days of account deletion (unless required by law)</li>
             <li><strong>Backups:</strong> Some data may persist in backup systems for up to 90 days</li>
           </ul>
-          <p>You can request deletion of your account and data at any time by contacting us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
+          <p>You can delete your account and all associated data at any time directly within the app by going to Profile &gt; Delete Account. Alternatively, you can contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Your Privacy Rights</h2>
           <p>Depending on your location, you may have the following rights:</p>
@@ -142,7 +142,7 @@ export default function Privacy() {
 
           <h3 className="text-xl font-semibold mt-6 mb-3">Deletion</h3>
           <ul className="list-disc list-inside space-y-2 mb-4">
-            <li>Request deletion of your account and associated data</li>
+            <li>Delete your account and all associated data directly in the app (Profile &gt; Delete Account)</li>
             <li>Delete individual matches, tournaments, or videos at any time</li>
           </ul>
 
