@@ -95,11 +95,11 @@ public/                 # Static assets
 
 ### Update App Store Link
 
-Edit the App Store link in:
+The App Store link is configured in:
 - `components/AppStoreLinks.tsx`
 - `app/page.tsx`
 
-Replace `https://apps.apple.com/us/app/grapplehub` with your actual App Store URL.
+Current URL: `https://apps.apple.com/us/app/grapplehub/id6758177752`
 
 ### Update Contact Email
 

@@ -15,7 +15,7 @@ export default function Privacy() {
         <article className="prose prose-lg max-w-none">
           <h1 className="text-4xl font-bold mb-4">Privacy Policy</h1>
           
-          <p className="text-gray-600 mb-8"><strong>Last Updated: January 25, 2026</strong></p>
+          <p className="text-gray-600 mb-8"><strong>Last Updated: January 27, 2026</strong></p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Introduction</h2>
           <p>Welcome to GrappleHub. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.</p>
@@ -158,11 +158,36 @@ export default function Privacy() {
 
           <p>To exercise these rights, contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
 
-          <h2 className="text-2xl font-bold mt-12 mb-4">Children's Privacy</h2>
-          <p>GrappleHub is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
-          <p><strong>If you are under 13:</strong> Do not use this app or provide any information.</p>
-          <p><strong>If you are a parent or guardian:</strong> If you believe your child under 13 has provided us with personal information, please contact us immediately at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>, and we will delete such information.</p>
-          <p><strong>Users aged 13-17:</strong> We recommend obtaining parental consent before using the app, especially when uploading videos containing minors.</p>
+          <h2 className="text-2xl font-bold mt-12 mb-4">Children's Privacy &amp; COPPA Compliance</h2>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">How GrappleHub Works</h3>
+          <p>GrappleHub is designed for <strong>parents, guardians, and coaches</strong> to track the wrestling performance of athletes, including minors. Account holders must be 18 years of age or older. The app is not intended for children to use directly.</p>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">Information About Minor Athletes</h3>
+          <p>When parents or guardians create wrestler profiles for their children, the following information may be stored:</p>
+          <ul className="list-disc list-inside space-y-2 mb-4">
+            <li>Wrestler's first name (last name is not required)</li>
+            <li>Age, grade level, and weight class</li>
+            <li>Competition level (Youth, High School, College, Open)</li>
+            <li>Match results, scores, and tournament history</li>
+            <li>Optional match videos</li>
+          </ul>
+          <p>This information is entered and controlled by the parent/guardian account holder, not by the minor directly.</p>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">COPPA Compliance</h3>
+          <p>We comply with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information directly from children under 13. All data about minor athletes is provided by their parents or guardians who hold the account.</p>
+          <ul className="list-disc list-inside space-y-2 mb-4">
+            <li><strong>Account holders must be 18+:</strong> Only adults may create and maintain GrappleHub accounts</li>
+            <li><strong>Parental control:</strong> Parents/guardians control all data about their minor children</li>
+            <li><strong>No direct collection from minors:</strong> Children do not create accounts or input their own data</li>
+            <li><strong>Parental rights:</strong> Parents can review, modify, or delete their children's data at any time</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">If a Child Creates an Account</h3>
+          <p>If we learn that a child under 13 has created an account without parental consent, we will delete the account and associated data promptly. If you believe a child under 13 has created an account, please contact us immediately at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a>.</p>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">Videos of Minors</h3>
+          <p>If you upload match videos containing minors, you represent that you have the legal authority to record and store those videos (e.g., you are the parent/guardian of the minor depicted, or you have obtained appropriate consent).</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">Third-Party Services</h2>
           <h3 className="text-xl font-semibold mt-6 mb-3">Apple Sign-In</h3>

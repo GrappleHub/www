@@ -52,7 +52,7 @@ export default function Footer() {
         
         <div className="border-t border-gray-700 pt-8">
           <p className="text-center text-gray-400">
-            © {currentYear} GrappleHub. All rights reserved.
+            © {currentYear} GrappleHub LLC. All rights reserved.
           </p>
         </div>
       </div>
