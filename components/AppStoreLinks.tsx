@@ -15,7 +15,7 @@ export default function AppStoreLinks() {
           <div className="flex justify-center">
             <div className="bg-white p-4 rounded-lg shadow-lg">
               <QRCode 
-                value="https://apps.apple.com/us/app/grapplehub"
+                value="https://apps.apple.com/us/app/grapplehub/id6758177752"
                 size={200}
                 level="H"
                 includeMargin={true}
@@ -30,7 +30,7 @@ export default function AppStoreLinks() {
             </div>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://apps.apple.com/us/app/grapplehub"
+                href="https://apps.apple.com/us/app/grapplehub/id6758177752"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center bg-white text-primary px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition transform hover:scale-105"
@@ -41,7 +41,7 @@ export default function AppStoreLinks() {
                 App Store
               </a>
               <a
-                href="https://apps.apple.com/us/app/grapplehub"
+                href="https://apps.apple.com/us/app/grapplehub/id6758177752"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center bg-white text-primary px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition transform hover:scale-105"

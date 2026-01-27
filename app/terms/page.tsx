@@ -15,7 +15,7 @@ export default function Terms() {
         <article className="prose prose-lg max-w-none">
           <h1 className="text-4xl font-bold mb-4">Terms of Service</h1>
           
-          <p className="text-gray-600 mb-8"><strong>Last Updated: January 25, 2026</strong></p>
+          <p className="text-gray-600 mb-8"><strong>Last Updated: January 27, 2026</strong></p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">1. Agreement to Terms</h2>
           <p>By accessing or using GrappleHub ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
@@ -31,7 +31,7 @@ export default function Terms() {
           </ul>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">3. Eligibility</h2>
-          <p>You must be at least 13 years of age to use this App. If you are under 18, you must have permission from a parent or legal guardian to use the App.</p>
+          <p>You must be at least 18 years of age to create an account and use this App. GrappleHub is designed for parents, guardians, and coaches to track the wrestling performance of athletes, including minors. The App is not intended for children to use directly.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">4. Account Registration</h2>
           <h3 className="text-xl font-semibold mt-6 mb-3">4.1 Account Creation</h3>
@@ -205,9 +205,15 @@ export default function Terms() {
             <li>You remain responsible for any obligations incurred before termination</li>
           </ul>
 
-          <h2 className="text-2xl font-bold mt-12 mb-4">15. Children's Privacy</h2>
-          <p>The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.</p>
-          <p>For users aged 13-17, parental consent is recommended before using the App, especially for uploading videos containing minors.</p>
+          <h2 className="text-2xl font-bold mt-12 mb-4">15. Children's Privacy &amp; COPPA Compliance</h2>
+          <p>GrappleHub accounts may only be created by users who are 18 years of age or older. The App is designed for parents, guardians, and coaches to track the performance of wrestlers, including minors.</p>
+          <ul className="list-disc list-inside space-y-2 mb-4">
+            <li><strong>No direct use by children:</strong> Children under 18 should not create accounts or use the App directly</li>
+            <li><strong>Parental control:</strong> All data about minor wrestlers is entered and controlled by the adult account holder</li>
+            <li><strong>COPPA compliance:</strong> We do not knowingly collect personal information directly from children under 13</li>
+            <li><strong>Parental rights:</strong> Parents/guardians can review, modify, or delete their children's wrestler profiles at any time</li>
+          </ul>
+          <p>If we learn that a child under 13 has created an account without parental consent, we will delete the account promptly. Contact us at <a href="mailto:grapplehubapp@gmail.com" className="text-secondary hover:underline">grapplehubapp@gmail.com</a> if you believe a child has created an account.</p>
 
           <h2 className="text-2xl font-bold mt-12 mb-4">16. Changes to Terms</h2>
           <p>We reserve the right to modify these Terms at any time. We will notify you of material changes by:</p>

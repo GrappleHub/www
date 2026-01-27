@@ -102,7 +102,7 @@ export default function Home() {
             Download GrappleHub today and start tracking your success.
           </p>
           <a
-            href="https://apps.apple.com/us/app/grapplehub"
+            href="https://apps.apple.com/us/app/grapplehub/id6758177752"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-secondary text-black px-8 py-3 rounded-lg font-semibold hover:bg-orange-400 transition"
